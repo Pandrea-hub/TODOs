@@ -1,0 +1,8 @@
+section{
+    height: 60%;
+    overflow-y:scroll;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

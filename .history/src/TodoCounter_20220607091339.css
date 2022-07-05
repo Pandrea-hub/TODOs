@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+    color:white;
+}
+
+.title h1{
+    color:black;
+    background-color:white;
+    width: 20%;
+}

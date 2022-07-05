@@ -1,0 +1,24 @@
+.botonSubmit{
+    background-color: greenyellow;
+}
+
+.botonClose{
+    background-color:plum;
+}
+
+.botons{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+    background-color:white;
+    
+}
+
+label{
+    color: black;
+}

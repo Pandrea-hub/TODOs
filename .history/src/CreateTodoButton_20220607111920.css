@@ -1,0 +1,14 @@
+button{
+    background-color: #1197cc;
+    box-shadow: #094c66 4px 4px 0;
+    border-radius: 8px;
+    transition: transform 200ms,box-shadow 200ms;
+    cursor: pointer;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+button:active {
+    transform: translateY(4px) translateX(4px);
+    box-shadow: #094c66 0px 0px 0px;
+}

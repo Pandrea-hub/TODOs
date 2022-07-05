@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    color:white;
+}
+
+.title h1{
+    color:black;
+    background-color:white;
+    width: 30%;
+    margin: 10px auto;
+}
+
+@media screen and (max-width:800px) {
+    .title h1{
+        width: 50%;
+    }
+}

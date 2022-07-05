@@ -1,0 +1,46 @@
+.botonSubmit{
+    background-color: greenyellow;
+    position: relative;
+}
+
+.botonClose{
+    background-color:plum;
+    position: relative;
+}
+
+.botons{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    background-color:white;
+    gap: 20px;
+    font-size: 1.6rem;
+    padding: 1.6rem 3rem;
+    border: 3px solid black;
+    border-radius: 5px;
+    box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.2);
+  
+}
+
+label{
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-align: start;
+    color: black;
+}
+
+.description{
+    display: flex;
+    flex-direction:column;
+    gap: 20px;
+    text-align: center;
+}
+
+.description label{
+    font-size: 1.8rem;
+    text-align: center;
+}

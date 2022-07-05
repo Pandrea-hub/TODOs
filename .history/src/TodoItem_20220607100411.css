@@ -1,0 +1,15 @@
+li{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    background-color:white;
+    margin: 20px 10px;
+}
+
+.Icon-check--activate{
+    color:green;
+}
+
+.TodoItem-p--complete{
+    text-decoration: underline;
+}

@@ -1,0 +1,11 @@
+button{
+    margin: 0 auto;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.button svg{
+    width: 100px;
+    height: 100px;
+}
